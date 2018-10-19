@@ -1,0 +1,19 @@
+{
+  "name": "transform-colors",
+  "version": "1.0.0",
+  "description": "Color conversion and transform library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik-ramanathan/transform-colors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik-ramanathan/transform-colors/issues"
+  },
+  "homepage": "https://github.com/karthik-ramanathan/transform-colors#readme"
+}
